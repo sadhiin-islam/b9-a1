@@ -1,0 +1,387 @@
+.mainbg{
+    height: 600px;
+    width: 1320px;
+    background-image: url('resources/Banner%20Image.png');
+    margin: auto;
+}
+.mainbgup{
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.headercontent{
+    position: absolute;
+    top: 177px;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.hny{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+.headertext{
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 60px;
+}
+.offercontent{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 55px;
+}
+.offer{
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+.slogan{
+    color: red;
+    font-size: 18px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+.category{
+    color: black;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.hnyimage{
+    height: 600px;
+    width: 1320px;
+}
+.nyp{
+    width: 800px;
+    height: 500px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.welcomebg{
+    height: 600px;
+    width: 1320px;
+    background-image: url('resources/Vectorrr.png');
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 16px;
+}
+.welcomecontent{
+    height: 600px;
+    width: 1320px;
+    border-radius: 16px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.wlctext{
+    color: white;
+    position: absolute;
+    left: 45px;
+    top: 25%;
+}
+.wlto{
+    font-size: 65px;
+}
+.wtext{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: aliceblue;
+}
+.joinone{
+    position: absolute;
+    left: 25px;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.vecimg{
+    position: absolute;
+    right: 15%;
+    top: 10%;
+}
+.shbox{
+    height: 482px;
+    width: 1320px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    position: relative;
+    margin: auto;
+    display: flex;
+}
+.shcontext{
+    width: 1320px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+}
+.shtext{
+    color: black;
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+.shcolortext{
+    color: red;
+}
+.shjoinbt{
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    border: none;
+    background: red;
+    position: absolute;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.joinbt{
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    width: 180px;
+    height: 55px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+.rrtext{
+    height: 450px;
+    width: 1320px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.nbo{
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+.cs{
+    font-size: 50px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.detext{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.roundborder{
+    width: 380px;
+    height: 380px;
+    border: solid 15px red;
+    border-radius: 50%;
+    position: relative;
+}
+.ttext{
+    
+    }
+.roundimg{
+    padding: 0 50px 0 50px;
+    margin: auto;
+}
+.imground{
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.saletag{
+    text-align: center;
+    padding: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 75px;
+}
+.salemain{
+    font-family: serif;
+    font-size: 58px;
+}
+.hred{
+    color: red
+}
+.saletext{
+    font-weight: 100;
+    font-size: 15px;
+}
+.saleoffimage{
+    width: 1320px;
+    height: 615px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    position: relative;
+    border-radius: 16px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.boxoff{
+    position: absolute;
+    
+}
+.woman{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.offtag{
+    position: absolute;
+    right: 300px;
+    top: 60px;
+}
+.offbtom{
+    position: absolute;
+    bottom: 0px;
+}
+.conttext{
+    width: 1320px;
+    border-radius: 16px;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+    padding-bottom: 50px;
+    margin: auto;
+    margin-top: 75px;
+}
+.thg{
+    font-size: 22px;
+    font-weight: bold;
+    color: red;
+}
+.oap{
+    font-family: serif;
+    font-size: 50px;
+    margin: -10px;
+}
+.contdet{
+    font-size: 18px;
+    margin-top: 22px;
+}
+.gridimg{
+    width: 1320px;
+    border-radius: 16px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.griditem{
+    
+}
+.subbox{
+    width: 1320px;
+    border-radius: 16px;
+    background-color: rgba(255, 0, 0, 0.05);
+    align-items: center;
+    text-align: center;
+    padding: 25px 0 25px 0;
+    margin: auto;
+}
+.emailtext{
+    background-color: white;
+    border: none;
+    height: 40px;
+    width: 300px;
+    border-radius: 35px 0 0 35px;
+    padding: 10px;
+    font-size: 18px;
+}
+.subbt{
+    background-color: red;
+    border: none;
+    height: 62px;
+    width: 175px;
+    border-radius: 0 35px 35px 0;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: -10px;
+}
+.bottombl{
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 55px;
+    position: relative;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-top: 100px;
+    padding-bottom: 75px;
+}
+.bottominfo{
+    height: auto;
+    width: 1320px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+}
+.addressbottm{
+    width: 100%;
+}
+.contactnumber{
+    list-style-image: url('resources/Call.png');
+}
+.contactweb{
+    list-style-image: url('resources/Website.png');
+}
+li{
+    margin-top: -20px;
+}
+.contactlist{
+    position: absolute;
+    right: 25px;
+}
+.socialicosone{
+    width: 1320px;
+    margin: auto;
+}
+.socialicos{
+    width: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+.lineone{
+    height: .08px;
+    background-color: white;
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+.linetwo{
+    height: .08px;
+    background-color: white;
+    margin-top: 80px;
+    margin-bottom: 55px;
+}
+.copyright{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 1320px;
+    margin: auto;
+    position: relative;
+    margin-top: 55px;
+}
+.unsubscribe{
+    position: absolute;
+    right: 0;
+}
